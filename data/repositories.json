@@ -1,0 +1,797 @@
+[
+  {
+    "repo": "binary-husky/gpt_academic",
+    "stars": 71000,
+    "category": "research-assistant",
+    "license": "GPL-3.0",
+    "supports": [
+      "Web UI",
+      "Python",
+      "Plugins"
+    ],
+    "focus_zh": "面向中文科研用户的综合学术助手，强调论文阅读、翻译、润色、LaTeX/PDF处理与插件扩展。",
+    "focus_en": "A broad academic assistant for paper reading, translation, polishing, LaTeX/PDF processing, and plugin-based extensions.",
+    "best_zh": "需要图形界面、中文生态和大量现成学术插件的研究者。",
+    "best_en": "Researchers who want a GUI, strong Chinese-language support, and many ready-made academic plugins.",
+    "strengths_zh": [
+      "中文使用门槛低",
+      "插件生态丰富",
+      "适合日常论文处理"
+    ],
+    "strengths_en": [
+      "Accessible for Chinese users",
+      "Rich plugin ecosystem",
+      "Strong for daily paper handling"
+    ],
+    "limits_zh": [
+      "系统较重，配置项多",
+      "不等同于严格的人机协同论文工作流"
+    ],
+    "limits_en": [
+      "Relatively heavy and configuration-rich",
+      "Not a strict human-in-the-loop writing methodology by itself"
+    ],
+    "recommendation": 4.7,
+    "url": "https://github.com/binary-husky/gpt_academic",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills",
+    "stars": 33113,
+    "category": "writing-workflow",
+    "license": "Check upstream",
+    "supports": [
+      "Claude Code",
+      "VS Code",
+      "JetBrains"
+    ],
+    "focus_zh": "从研究、写作、审稿、修改到定稿的完整人机协同学术工作流，并强调证据、引用与写作质量检查。",
+    "focus_en": "A complete human-in-the-loop workflow from research and writing to review, revision, and finalization, with evidence and citation checks.",
+    "best_zh": "需要完整论文生命周期管理、希望降低幻觉和引用风险的研究者。",
+    "best_en": "Researchers who need full paper-lifecycle management and strong safeguards against unsupported claims and citation errors.",
+    "strengths_zh": [
+      "工作流完整",
+      "引用与证据检查较强",
+      "支持风格校准"
+    ],
+    "strengths_en": [
+      "Complete workflow",
+      "Strong evidence and citation checks",
+      "Style calibration"
+    ],
+    "limits_zh": [
+      "原生面向Claude Code",
+      "规则较多，需按项目裁剪"
+    ],
+    "limits_en": [
+      "Claude Code is the native host",
+      "Large rule set may need project-specific pruning"
+    ],
+    "recommendation": 5.0,
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Leey21/awesome-ai-research-writing",
+    "stars": 30100,
+    "category": "prompt-collection",
+    "license": "Check upstream",
+    "supports": [
+      "ChatGPT",
+      "Claude",
+      "Cursor",
+      "Word",
+      "LaTeX"
+    ],
+    "focus_zh": "中文友好的科研写作提示词与Skills合集，覆盖润色、翻译、章节写作、实验分析、审稿和科研绘图。",
+    "focus_en": "A Chinese-friendly collection of research-writing prompts and skills covering polishing, translation, section writing, experiment analysis, review, and figures.",
+    "best_zh": "希望直接复制提示词并快速改善论文表达的中文用户。",
+    "best_en": "Chinese-speaking users who want copy-ready prompts for fast improvements to academic writing.",
+    "strengths_zh": [
+      "任务覆盖广",
+      "中文说明友好",
+      "即拿即用"
+    ],
+    "strengths_en": [
+      "Broad task coverage",
+      "Chinese-friendly documentation",
+      "Immediately usable"
+    ],
+    "limits_zh": [
+      "内容来源和粒度不完全统一",
+      "需要自行组合成稳定流程"
+    ],
+    "limits_en": [
+      "Uneven granularity and provenance",
+      "Users must assemble prompts into a stable workflow"
+    ],
+    "recommendation": 4.9,
+    "url": "https://github.com/Leey21/awesome-ai-research-writing",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "stars": 29700,
+    "category": "scientific-skills",
+    "license": "MIT",
+    "supports": [
+      "Codex",
+      "Claude Code",
+      "Cursor",
+      "Gemini CLI",
+      "Agent Skills"
+    ],
+    "focus_zh": "大型科学Agent技能库，覆盖科学数据库、分析工具、工程计算、写作、图表与研究流程。",
+    "focus_en": "A large scientific-agent skill library spanning databases, analysis tools, scientific computing, writing, figures, and workflows.",
+    "best_zh": "需要让编码Agent执行数据分析、科学计算和多步骤科研任务的团队。",
+    "best_en": "Teams that want coding agents to execute analysis, scientific computing, and multi-step research workflows.",
+    "strengths_zh": [
+      "技能数量多",
+      "兼容多种Agent",
+      "科学工具覆盖广"
+    ],
+    "strengths_en": [
+      "Large skill catalog",
+      "Multi-agent compatibility",
+      "Broad scientific tooling coverage"
+    ],
+    "limits_zh": [
+      "生物医药比重较高",
+      "仅写计算机论文时可能过重"
+    ],
+    "limits_en": [
+      "Strong biomedical emphasis",
+      "Can be excessive for paper-writing-only use cases"
+    ],
+    "recommendation": 4.5,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist",
+    "stars": 13800,
+    "category": "autonomous-research",
+    "license": "Check upstream",
+    "supports": [
+      "Python",
+      "LLM APIs",
+      "LaTeX"
+    ],
+    "focus_zh": "探索从创意生成、实验执行、论文写作到模拟审稿的自动化科学发现系统。",
+    "focus_en": "An autonomous scientific-discovery system spanning idea generation, experiments, paper writing, and simulated peer review.",
+    "best_zh": "研究自动科研系统、复现实验流水线或进行Agent研究的用户。",
+    "best_en": "Users studying autonomous research systems, reproducing research pipelines, or researching agents.",
+    "strengths_zh": [
+      "端到端自动科研代表项目",
+      "论文与实验结合",
+      "研究价值高"
+    ],
+    "strengths_en": [
+      "Landmark end-to-end system",
+      "Connects experiments with papers",
+      "High research value"
+    ],
+    "limits_zh": [
+      "部署成本高",
+      "不适合直接替代人工论文写作",
+      "引用与结果必须人工核验"
+    ],
+    "limits_en": [
+      "High setup cost",
+      "Not a substitute for human scholarship",
+      "Claims and citations require human verification"
+    ],
+    "recommendation": 4.2,
+    "url": "https://github.com/SakanaAI/AI-Scientist",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "aiming-lab/AutoResearchClaw",
+    "stars": 13700,
+    "category": "autonomous-research",
+    "license": "Check upstream",
+    "supports": [
+      "Python",
+      "Docker",
+      "Codex",
+      "LLM APIs"
+    ],
+    "focus_zh": "将研究想法转为论文的多阶段自动科研流水线，包含代码、基准测试、绘图与多轮论文质量审计。",
+    "focus_en": "A multi-stage idea-to-paper pipeline with coding, benchmark, figure, and multi-round paper-quality agents.",
+    "best_zh": "希望研究或搭建长流程自动科研系统，并保留人机协作检查点的用户。",
+    "best_en": "Users building long-horizon automated research systems with optional human checkpoints.",
+    "strengths_zh": [
+      "阶段划分细",
+      "包含实验与图表Agent",
+      "提供人机协作模式"
+    ],
+    "strengths_en": [
+      "Fine-grained stages",
+      "Experiment and figure agents",
+      "Human-in-the-loop mode"
+    ],
+    "limits_zh": [
+      "运行复杂且成本较高",
+      "自动生成结果不能直接用于投稿"
+    ],
+    "limits_en": [
+      "Complex and potentially costly to run",
+      "Generated outputs are not submission-ready without verification"
+    ],
+    "recommendation": 4.4,
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "pengsida/learning_research",
+    "stars": 13000,
+    "category": "research-methodology",
+    "license": "Check upstream",
+    "supports": [
+      "Markdown",
+      "Human workflow"
+    ],
+    "focus_zh": "从选题、实验、科研能力培养到论文写作的中文科研方法论笔记。",
+    "focus_en": "Chinese research-methodology notes covering topic selection, experiments, research development, and paper writing.",
+    "best_zh": "计算机视觉、机器学习方向的研究生，以及希望构建长期科研习惯的用户。",
+    "best_en": "Graduate students in CV/ML and researchers building long-term research habits.",
+    "strengths_zh": [
+      "方法论扎实",
+      "贴近研究生实践",
+      "适合转化为自定义Skill"
+    ],
+    "strengths_en": [
+      "Strong methodology",
+      "Grounded in graduate research practice",
+      "Good source for custom skills"
+    ],
+    "limits_zh": [
+      "不是可直接运行的Agent Skill",
+      "部分内容具有作者研究方向偏好"
+    ],
+    "limits_en": [
+      "Not an executable agent skill",
+      "Some advice reflects the author's research context"
+    ],
+    "recommendation": 4.8,
+    "url": "https://github.com/pengsida/learning_research",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "stars": 10300,
+    "category": "ai-research-engineering",
+    "license": "MIT",
+    "supports": [
+      "Codex",
+      "Claude Code",
+      "Gemini",
+      "Agent Skills"
+    ],
+    "focus_zh": "面向AI研究的技能库，覆盖选题、模型、训练、评估、工程、论文写作和自动科研编排。",
+    "focus_en": "An AI-research skill library spanning ideation, models, training, evaluation, engineering, paper writing, and orchestration.",
+    "best_zh": "需要让Agent同时理解AI实验工程与论文写作的计算机研究者。",
+    "best_en": "AI researchers who want agents to understand both experiment engineering and paper writing.",
+    "strengths_zh": [
+      "AI研究链路覆盖完整",
+      "分类清晰",
+      "适合Codex"
+    ],
+    "strengths_en": [
+      "Broad AI research lifecycle coverage",
+      "Clear categorization",
+      "Good Codex fit"
+    ],
+    "limits_zh": [
+      "技能总量大，需按项目选择",
+      "部分自动化工作流需注意权限和安全"
+    ],
+    "limits_en": [
+      "Large library requires selective loading",
+      "Automation workflows require permission and security review"
+    ],
+    "recommendation": 4.8,
+    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "stars": 12800,
+    "category": "autonomous-research",
+    "license": "Check upstream",
+    "supports": [
+      "Claude Code",
+      "Codex",
+      "Agent Skills"
+    ],
+    "focus_zh": "面向长期科研任务的Agent技能与自动循环，强调选题、实验规划、论点提炼、写作和审稿迭代。",
+    "focus_en": "Agent skills and automated loops for long-horizon research, emphasizing ideation, experiment planning, claim extraction, writing, and review.",
+    "best_zh": "希望把科研任务拆成持续循环、并用Agent推动进度的研究者。",
+    "best_en": "Researchers who want to decompose research into persistent agent-driven loops.",
+    "strengths_zh": [
+      "强调长流程执行",
+      "适合实验到论文闭环",
+      "兼容Codex"
+    ],
+    "strengths_en": [
+      "Long-horizon execution",
+      "Experiment-to-paper loop",
+      "Codex compatible"
+    ],
+    "limits_zh": [
+      "需要严格设置停止条件与人工审查",
+      "不宜无人监管运行高成本实验"
+    ],
+    "limits_en": [
+      "Needs strict stop conditions and human review",
+      "Unsuitable for unsupervised costly experiments"
+    ],
+    "recommendation": 4.4,
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "stars": 6400,
+    "category": "autonomous-research",
+    "license": "Check upstream",
+    "supports": [
+      "Python",
+      "LLM APIs",
+      "LaTeX"
+    ],
+    "focus_zh": "AI Scientist的第二代端到端研究系统，引入更通用的Agent搜索和论文生成流程。",
+    "focus_en": "The second-generation AI Scientist system with more general agentic search and paper-generation workflows.",
+    "best_zh": "研究自动科学发现、Agent搜索策略与端到端论文生成的用户。",
+    "best_en": "Researchers studying autonomous discovery, agentic search, and end-to-end paper generation.",
+    "strengths_zh": [
+      "自动科研前沿代表",
+      "更通用的流程设计",
+      "适合学术研究"
+    ],
+    "strengths_en": [
+      "Frontier autonomous-research project",
+      "More general workflow design",
+      "Strong research value"
+    ],
+    "limits_zh": [
+      "资源要求高",
+      "实际科研可靠性仍依赖人工验证"
+    ],
+    "limits_en": [
+      "Resource intensive",
+      "Practical reliability still depends on human verification"
+    ],
+    "recommendation": 4.1,
+    "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "HKUDS/AI-Researcher",
+    "stars": 5400,
+    "category": "autonomous-research",
+    "license": "Check upstream",
+    "supports": [
+      "Python",
+      "LLM APIs",
+      "Research Agent"
+    ],
+    "focus_zh": "面向科学创新的Research Agent与Paper Writing Agent，支持从参考论文或研究想法启动。",
+    "focus_en": "Research and paper-writing agents for scientific innovation, starting from seed papers or research ideas.",
+    "best_zh": "希望研究多Agent科研系统或从种子论文扩展研究方向的用户。",
+    "best_en": "Users studying multi-agent research systems or expanding directions from seed papers.",
+    "strengths_zh": [
+      "研究与写作Agent分工",
+      "支持种子论文驱动",
+      "便于研究Agent架构"
+    ],
+    "strengths_en": [
+      "Separate research and writing agents",
+      "Seed-paper-driven workflow",
+      "Useful agent architecture reference"
+    ],
+    "limits_zh": [
+      "部署依赖较多",
+      "需特别审查密钥管理与安全配置"
+    ],
+    "limits_en": [
+      "Many deployment dependencies",
+      "Credential handling and security configuration need careful review"
+    ],
+    "recommendation": 4.0,
+    "url": "https://github.com/HKUDS/AI-Researcher",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills-codex",
+    "stars": 5100,
+    "category": "writing-workflow",
+    "license": "Check upstream",
+    "supports": [
+      "Codex",
+      "SKILL.md"
+    ],
+    "focus_zh": "Academic Research Skills的Codex原生版本，将完整学术工作流打包为适合Codex使用的单套技能。",
+    "focus_en": "The Codex-native edition of Academic Research Skills, packaging the full academic workflow for Codex.",
+    "best_zh": "主要使用OpenAI Codex完成论文规划、审稿、修改与质量检查的研究者。",
+    "best_en": "Researchers who primarily use OpenAI Codex for planning, reviewing, revising, and quality control.",
+    "strengths_zh": [
+      "Codex原生",
+      "完整论文流程",
+      "便于项目内加载"
+    ],
+    "strengths_en": [
+      "Codex native",
+      "Full paper workflow",
+      "Easy project-level loading"
+    ],
+    "limits_zh": [
+      "功能与Claude版存在差异",
+      "仍需根据学科定制"
+    ],
+    "limits_en": [
+      "Feature differences from the Claude edition",
+      "Still requires discipline-specific customization"
+    ],
+    "recommendation": 5.0,
+    "url": "https://github.com/Imbad0202/academic-research-skills-codex",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Master-cai/Research-Paper-Writing-Skills",
+    "stars": 4600,
+    "category": "writing-skill",
+    "license": "MIT",
+    "supports": [
+      "Codex",
+      "Claude Code",
+      "Gemini"
+    ],
+    "focus_zh": "面向ML/CV/NLP论文的轻量写作Skill，包含摘要、引言、相关工作、方法、实验和结论的章节规则。",
+    "focus_en": "A lightweight ML/CV/NLP paper-writing skill with section-specific rules for abstracts, introductions, related work, methods, experiments, and conclusions.",
+    "best_zh": "需要小而精、容易定制的计算机论文写作Skill用户。",
+    "best_en": "Users who want a compact, customizable computer-science paper-writing skill.",
+    "strengths_zh": [
+      "轻量清晰",
+      "章节规则具体",
+      "多Agent兼容"
+    ],
+    "strengths_en": [
+      "Compact and clear",
+      "Concrete section rules",
+      "Multi-agent compatible"
+    ],
+    "limits_zh": [
+      "不负责完整文献检索与实验执行",
+      "仍需单独引用核验"
+    ],
+    "limits_en": [
+      "Does not cover full literature search or experiment execution",
+      "Citation verification remains separate"
+    ],
+    "recommendation": 4.9,
+    "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "ahmetbersoz/chatgpt-prompts-for-academic-writing",
+    "stars": 4800,
+    "category": "prompt-collection",
+    "license": "Check upstream",
+    "supports": [
+      "ChatGPT",
+      "General LLMs"
+    ],
+    "focus_zh": "经典学术写作提示词集合，涵盖选题、研究问题、文献综述、语言风格和研究计划。",
+    "focus_en": "A classic academic-writing prompt collection covering ideation, research questions, literature reviews, language, and research plans.",
+    "best_zh": "刚开始使用LLM辅助学术写作、希望快速获得任务模板的用户。",
+    "best_en": "Beginners who want quick task templates for LLM-assisted academic writing.",
+    "strengths_zh": [
+      "简单直接",
+      "覆盖常见写作任务",
+      "模型无关"
+    ],
+    "strengths_en": [
+      "Simple and direct",
+      "Covers common writing tasks",
+      "Model agnostic"
+    ],
+    "limits_zh": [
+      "提示词较传统",
+      "缺少文件级工作流和质量门禁"
+    ],
+    "limits_en": [
+      "Traditional prompt style",
+      "Lacks file-aware workflows and quality gates"
+    ],
+    "recommendation": 4.2,
+    "url": "https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "xuhangc/ChatGPT-Academic-Prompt",
+    "stars": 775,
+    "category": "prompt-collection",
+    "license": "Check upstream",
+    "supports": [
+      "ChatGPT",
+      "AI conferences"
+    ],
+    "focus_zh": "偏向CVPR、ICCV、ICML、NeurIPS等会议写作的学术提示词，包括润色、命名、伪代码、实验分析与审稿。",
+    "focus_en": "Academic prompts oriented toward venues such as CVPR, ICCV, ICML, and NeurIPS, including polishing, naming, pseudocode, experiment analysis, and review.",
+    "best_zh": "面向AI顶会写作、需要具体表达模板的研究者。",
+    "best_en": "AI conference authors who need venue-oriented writing templates.",
+    "strengths_zh": [
+      "AI顶会导向",
+      "任务具体",
+      "适合局部修改"
+    ],
+    "strengths_en": [
+      "AI-venue oriented",
+      "Task specific",
+      "Good for local edits"
+    ],
+    "limits_zh": [
+      "规模较小",
+      "缺少统一流程"
+    ],
+    "limits_en": [
+      "Small collection",
+      "No unified workflow"
+    ],
+    "recommendation": 4.1,
+    "url": "https://github.com/xuhangc/ChatGPT-Academic-Prompt",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "dixiyao/LLM-Academic-Writing",
+    "stars": 139,
+    "category": "review-workspace",
+    "license": "Check upstream",
+    "supports": [
+      "LLMs",
+      "PDF review"
+    ],
+    "focus_zh": "围绕论文审稿、语法检查与PDF工作区组织的学术写作资源。",
+    "focus_en": "Academic-writing resources organized around paper review, grammar checking, and PDF review workspaces.",
+    "best_zh": "需要轻量论文审查模板和工作区参考的用户。",
+    "best_en": "Users who need lightweight review templates and workspace examples.",
+    "strengths_zh": [
+      "审稿导向明确",
+      "结构直观"
+    ],
+    "strengths_en": [
+      "Clear review focus",
+      "Straightforward structure"
+    ],
+    "limits_zh": [
+      "规模和维护活跃度有限",
+      "不适合作为唯一主工作流"
+    ],
+    "limits_en": [
+      "Limited scope and maintenance activity",
+      "Not suitable as the sole workflow"
+    ],
+    "recommendation": 3.5,
+    "url": "https://github.com/dixiyao/LLM-Academic-Writing",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "Epsilon617/Codex-Academic-Skills",
+    "stars": 133,
+    "category": "awesome-list",
+    "license": "Check upstream",
+    "supports": [
+      "Codex",
+      "Skill index"
+    ],
+    "focus_zh": "面向OpenAI Codex的学术Skill目录与索引，便于继续发现可安装项目。",
+    "focus_en": "A directory and index of academic skills for OpenAI Codex, useful for discovering installable projects.",
+    "best_zh": "明确以Codex为主、希望持续扩展技能库的用户。",
+    "best_en": "Codex-first users who want to keep expanding their skill library.",
+    "strengths_zh": [
+      "Codex聚焦",
+      "适合发现新Skill"
+    ],
+    "strengths_en": [
+      "Codex focused",
+      "Useful discovery index"
+    ],
+    "limits_zh": [
+      "主要是索引而非完整能力",
+      "质量需逐项评估"
+    ],
+    "limits_en": [
+      "Primarily an index rather than a complete capability",
+      "Each linked skill needs separate evaluation"
+    ],
+    "recommendation": 3.9,
+    "url": "https://github.com/Epsilon617/Codex-Academic-Skills",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "andrehuang/academic-writing-agents",
+    "stars": 123,
+    "category": "review-agents",
+    "license": "Check upstream",
+    "supports": [
+      "Claude Code",
+      "Multi-agent"
+    ],
+    "focus_zh": "由多个审查Agent协同检查论文逻辑、语言、公式、图表、参考文献、LaTeX和相关工作。",
+    "focus_en": "A multi-agent review setup for logic, language, equations, figures, references, LaTeX, and related work.",
+    "best_zh": "论文接近定稿、希望进行分角色系统审查的用户。",
+    "best_en": "Authors near final submission who want role-separated systematic review.",
+    "strengths_zh": [
+      "审查维度完整",
+      "角色分工清楚",
+      "适合最终QC"
+    ],
+    "strengths_en": [
+      "Broad review dimensions",
+      "Clear role separation",
+      "Good for final QC"
+    ],
+    "limits_zh": [
+      "偏Claude Code",
+      "多Agent结果需要合并去重"
+    ],
+    "limits_en": [
+      "Claude Code oriented",
+      "Multi-agent findings require consolidation and deduplication"
+    ],
+    "recommendation": 4.3,
+    "url": "https://github.com/andrehuang/academic-writing-agents",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "BevalZ/awesome-prompt-for-academic",
+    "stars": 99,
+    "category": "prompt-collection",
+    "license": "Check upstream",
+    "supports": [
+      "Multilingual",
+      "Prompt search"
+    ],
+    "focus_zh": "多学科学术提示词集合，支持多语言内容与提示词检索。",
+    "focus_en": "A multidisciplinary academic prompt collection with multilingual content and prompt search.",
+    "best_zh": "需要跨学科、跨语言提示词检索的用户。",
+    "best_en": "Users who need multidisciplinary and multilingual prompt discovery.",
+    "strengths_zh": [
+      "多语言",
+      "跨学科",
+      "支持检索"
+    ],
+    "strengths_en": [
+      "Multilingual",
+      "Cross-disciplinary",
+      "Search support"
+    ],
+    "limits_zh": [
+      "项目规模较小",
+      "内容质量需要人工筛选"
+    ],
+    "limits_en": [
+      "Small project",
+      "Prompt quality requires manual curation"
+    ],
+    "recommendation": 3.8,
+    "url": "https://github.com/BevalZ/awesome-prompt-for-academic",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "repo": "SNL-UCSB/paper-writing-skill",
+    "stars": 84,
+    "category": "writing-skill",
+    "license": "MIT",
+    "supports": [
+      "Claude Code",
+      "SKILL.md"
+    ],
+    "focus_zh": "采用Brainstorm → Draft 0 → Evaluate → Write → Compress流程，并编码章节修辞与编辑原则。",
+    "focus_en": "Encodes a Brainstorm → Draft 0 → Evaluate → Write → Compress pipeline with section-level rhetorical and editorial principles.",
+    "best_zh": "重视论文论证结构、压缩表达和系统编辑流程的研究者。",
+    "best_en": "Researchers who value argument structure, compression, and a disciplined editorial process.",
+    "strengths_zh": [
+      "写作流程严谨",
+      "修辞结构清晰",
+      "适合精修"
+    ],
+    "strengths_en": [
+      "Disciplined writing pipeline",
+      "Clear rhetorical structure",
+      "Excellent for refinement"
+    ],
+    "limits_zh": [
+      "原生Claude Code",
+      "不负责自动实验和完整检索"
+    ],
+    "limits_en": [
+      "Claude Code native",
+      "Does not automate experiments or full literature search"
+    ],
+    "recommendation": 4.7,
+    "url": "https://github.com/SNL-UCSB/paper-writing-skill",
+    "forks": 0,
+    "open_issues": 0,
+    "updated_at": "",
+    "archived": false,
+    "last_checked": "2026-07-01"
+  }
+]

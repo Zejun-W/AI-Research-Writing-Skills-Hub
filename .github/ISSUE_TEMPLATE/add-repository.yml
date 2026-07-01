@@ -1,0 +1,23 @@
+name: Add a repository
+description: Suggest a research-writing or scientific-agent repository
+title: "[Repository] "
+labels: [repository]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Official GitHub URL
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: Why it belongs in this hub
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: Positioning, strengths, limitations, and risks
+    validations:
+      required: true
