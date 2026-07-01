@@ -141,13 +141,13 @@ function Ensure-Origin {
 
 function Ensure-PagesConfigured {
     if ((Invoke-Quiet $script:Gh api "repos/$Repo/pages") -eq 0) {
-        if ((Invoke-Quiet $script:Gh api --method PUT "repos/$Repo/pages" -f build_type=workflow) -ne 0) {
+        if ((Invoke-Quiet $script:Gh api --method PUT "repos/$Repo/pages" --field build_type=workflow) -ne 0) {
             throw "GitHub Pages exists, but could not be switched to workflow build type."
         }
         return
     }
 
-    if ((Invoke-Quiet $script:Gh api --method POST "repos/$Repo/pages" -f build_type=workflow) -ne 0) {
+    if ((Invoke-Quiet $script:Gh api --method POST "repos/$Repo/pages" --field build_type=workflow) -ne 0) {
         throw "GitHub Pages could not be initialized with workflow build type."
     }
 }
