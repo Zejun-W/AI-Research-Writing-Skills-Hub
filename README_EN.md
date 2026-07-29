@@ -31,26 +31,26 @@ This repository provides four layers:
 
 | Rank | Repository | Stars | Forks | Type | Best for | Score |
 |---:|---|---:|---:|---|---|---:|
-| 1 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,147 | 8,339 | research-assistant | Researchers who want a GUI, strong Chinese-language support, and many ready-made academic plugins. | 4.7/5 |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 39,817 | 3,190 | writing-workflow | Researchers who need full paper-lifecycle management and strong safeguards against unsupported claims and citation errors. | 5.0/5 |
-| 3 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 32,197 | 2,402 | prompt-collection | Chinese-speaking users who want copy-ready prompts for fast improvements to academic writing. | 4.9/5 |
-| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 31,951 | 3,174 | scientific-skills | Teams that want coding agents to execute analysis, scientific computing, and multi-step research workflows. | 4.5/5 |
-| 5 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | 14,302 | 2,031 | autonomous-research | Users studying autonomous research systems, reproducing research pipelines, or researching agents. | 4.2/5 |
-| 6 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 13,939 | 1,247 | autonomous-research | Researchers who want to decompose research into persistent agent-driven loops. | 4.4/5 |
-| 7 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 13,903 | 1,627 | autonomous-research | Users building long-horizon automated research systems with optional human checkpoints. | 4.4/5 |
-| 8 | [pengsida/learning_research](https://github.com/pengsida/learning_research) | 13,468 | 676 | research-methodology | Graduate students in CV/ML and researchers building long-term research habits. | 4.8/5 |
-| 9 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 11,165 | 818 | ai-research-engineering | AI researchers who want agents to understand both experiment engineering and paper writing. | 4.8/5 |
-| 10 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 7,216 | 358 | writing-workflow | Researchers who primarily use OpenAI Codex for planning, reviewing, revising, and quality control. | 5.0/5 |
-| 11 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 6,925 | 958 | autonomous-research | Researchers studying autonomous discovery, agentic search, and end-to-end paper generation. | 4.1/5 |
-| 12 | [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) | 5,625 | 717 | autonomous-research | Users studying multi-agent research systems or expanding directions from seed papers. | 4.0/5 |
-| 13 | [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | 5,585 | 273 | writing-skill | Users who want a compact, customizable computer-science paper-writing skill. | 4.9/5 |
-| 14 | [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | 4,848 | 389 | prompt-collection | Beginners who want quick task templates for LLM-assisted academic writing. | 4.2/5 |
+| 1 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,156 | 8,340 | research-assistant | Researchers who want a GUI, strong Chinese-language support, and many ready-made academic plugins. | 4.7/5 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 39,969 | 3,202 | writing-workflow | Researchers who need full paper-lifecycle management and strong safeguards against unsupported claims and citation errors. | 5.0/5 |
+| 3 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 32,253 | 2,405 | prompt-collection | Chinese-speaking users who want copy-ready prompts for fast improvements to academic writing. | 4.9/5 |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 32,035 | 3,180 | scientific-skills | Teams that want coding agents to execute analysis, scientific computing, and multi-step research workflows. | 4.5/5 |
+| 5 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | 14,307 | 2,033 | autonomous-research | Users studying autonomous research systems, reproducing research pipelines, or researching agents. | 4.2/5 |
+| 6 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 13,974 | 1,250 | autonomous-research | Researchers who want to decompose research into persistent agent-driven loops. | 4.4/5 |
+| 7 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 13,916 | 1,628 | autonomous-research | Users building long-horizon automated research systems with optional human checkpoints. | 4.4/5 |
+| 8 | [pengsida/learning_research](https://github.com/pengsida/learning_research) | 13,486 | 678 | research-methodology | Graduate students in CV/ML and researchers building long-term research habits. | 4.8/5 |
+| 9 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 11,202 | 821 | ai-research-engineering | AI researchers who want agents to understand both experiment engineering and paper writing. | 4.8/5 |
+| 10 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 7,298 | 360 | writing-workflow | Researchers who primarily use OpenAI Codex for planning, reviewing, revising, and quality control. | 5.0/5 |
+| 11 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 6,929 | 958 | autonomous-research | Researchers studying autonomous discovery, agentic search, and end-to-end paper generation. | 4.1/5 |
+| 12 | [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) | 5,626 | 718 | autonomous-research | Users studying multi-agent research systems or expanding directions from seed papers. | 4.0/5 |
+| 13 | [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | 5,615 | 275 | writing-skill | Users who want a compact, customizable computer-science paper-writing skill. | 4.9/5 |
+| 14 | [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | 4,850 | 389 | prompt-collection | Beginners who want quick task templates for LLM-assisted academic writing. | 4.2/5 |
 | 15 | [xuhangc/ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt) | 791 | 83 | prompt-collection | AI conference authors who need venue-oriented writing templates. | 4.1/5 |
 | 16 | [Epsilon617/Codex-Academic-Skills](https://github.com/Epsilon617/Codex-Academic-Skills) | 157 | 6 | awesome-list | Codex-first users who want to keep expanding their skill library. | 3.9/5 |
-| 17 | [andrehuang/academic-writing-agents](https://github.com/andrehuang/academic-writing-agents) | 148 | 16 | review-agents | Authors near final submission who want role-separated systematic review. | 4.3/5 |
+| 17 | [andrehuang/academic-writing-agents](https://github.com/andrehuang/academic-writing-agents) | 149 | 16 | review-agents | Authors near final submission who want role-separated systematic review. | 4.3/5 |
 | 18 | [SNL-UCSB/paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill) | 142 | 8 | writing-skill | Researchers who value argument structure, compression, and a disciplined editorial process. | 4.7/5 |
 | 19 | [dixiyao/LLM-Academic-Writing](https://github.com/dixiyao/LLM-Academic-Writing) | 140 | 5 | review-workspace | Users who need lightweight review templates and workspace examples. | 3.5/5 |
-| 20 | [BevalZ/awesome-prompt-for-academic](https://github.com/BevalZ/awesome-prompt-for-academic) | 100 | 6 | prompt-collection | Users who need multidisciplinary and multilingual prompt discovery. | 3.8/5 |
+| 20 | [BevalZ/awesome-prompt-for-academic](https://github.com/BevalZ/awesome-prompt-for-academic) | 101 | 6 | prompt-collection | Users who need multidisciplinary and multilingual prompt discovery. | 3.8/5 |
 <!-- REPO_TABLE_END -->
 
 ## Repository layout
