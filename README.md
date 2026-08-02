@@ -31,22 +31,22 @@
 
 | 排名 | 仓库 | Stars | Forks | 类型 | 最适合 | 综合建议 |
 |---:|---|---:|---:|---|---|---:|
-| 1 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,169 | 8,341 | research-assistant | 需要图形界面、中文生态和大量现成学术插件的研究者。 | 4.7/5 |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 40,370 | 3,223 | writing-workflow | 需要完整论文生命周期管理、希望降低幻觉和引用风险的研究者。 | 5.0/5 |
-| 3 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 32,388 | 2,408 | prompt-collection | 希望直接复制提示词并快速改善论文表达的中文用户。 | 4.9/5 |
-| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 32,287 | 3,203 | scientific-skills | 需要让编码Agent执行数据分析、科学计算和多步骤科研任务的团队。 | 4.5/5 |
-| 5 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | 14,326 | 2,033 | autonomous-research | 研究自动科研系统、复现实验流水线或进行Agent研究的用户。 | 4.2/5 |
-| 6 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 14,090 | 1,255 | autonomous-research | 希望把科研任务拆成持续循环、并用Agent推动进度的研究者。 | 4.4/5 |
-| 7 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 13,932 | 1,630 | autonomous-research | 希望研究或搭建长流程自动科研系统，并保留人机协作检查点的用户。 | 4.4/5 |
-| 8 | [pengsida/learning_research](https://github.com/pengsida/learning_research) | 13,523 | 675 | research-methodology | 计算机视觉、机器学习方向的研究生，以及希望构建长期科研习惯的用户。 | 4.8/5 |
-| 9 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 11,293 | 826 | ai-research-engineering | 需要让Agent同时理解AI实验工程与论文写作的计算机研究者。 | 4.8/5 |
-| 10 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 7,537 | 370 | writing-workflow | 主要使用OpenAI Codex完成论文规划、审稿、修改与质量检查的研究者。 | 5.0/5 |
-| 11 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 6,947 | 964 | autonomous-research | 研究自动科学发现、Agent搜索策略与端到端论文生成的用户。 | 4.1/5 |
-| 12 | [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | 5,686 | 281 | writing-skill | 需要小而精、容易定制的计算机论文写作Skill用户。 | 4.9/5 |
-| 13 | [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) | 5,634 | 720 | autonomous-research | 希望研究多Agent科研系统或从种子论文扩展研究方向的用户。 | 4.0/5 |
-| 14 | [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | 4,856 | 390 | prompt-collection | 刚开始使用LLM辅助学术写作、希望快速获得任务模板的用户。 | 4.2/5 |
+| 1 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,170 | 8,341 | research-assistant | 需要图形界面、中文生态和大量现成学术插件的研究者。 | 4.7/5 |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 40,477 | 3,229 | writing-workflow | 需要完整论文生命周期管理、希望降低幻觉和引用风险的研究者。 | 5.0/5 |
+| 3 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 32,422 | 2,410 | prompt-collection | 希望直接复制提示词并快速改善论文表达的中文用户。 | 4.9/5 |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 32,353 | 3,206 | scientific-skills | 需要让编码Agent执行数据分析、科学计算和多步骤科研任务的团队。 | 4.5/5 |
+| 5 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | 14,329 | 2,033 | autonomous-research | 研究自动科研系统、复现实验流水线或进行Agent研究的用户。 | 4.2/5 |
+| 6 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 14,108 | 1,255 | autonomous-research | 希望把科研任务拆成持续循环、并用Agent推动进度的研究者。 | 4.4/5 |
+| 7 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 13,939 | 1,629 | autonomous-research | 希望研究或搭建长流程自动科研系统，并保留人机协作检查点的用户。 | 4.4/5 |
+| 8 | [pengsida/learning_research](https://github.com/pengsida/learning_research) | 13,531 | 674 | research-methodology | 计算机视觉、机器学习方向的研究生，以及希望构建长期科研习惯的用户。 | 4.8/5 |
+| 9 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 11,308 | 829 | ai-research-engineering | 需要让Agent同时理解AI实验工程与论文写作的计算机研究者。 | 4.8/5 |
+| 10 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 7,587 | 372 | writing-workflow | 主要使用OpenAI Codex完成论文规划、审稿、修改与质量检查的研究者。 | 5.0/5 |
+| 11 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 6,949 | 963 | autonomous-research | 研究自动科学发现、Agent搜索策略与端到端论文生成的用户。 | 4.1/5 |
+| 12 | [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | 5,710 | 282 | writing-skill | 需要小而精、容易定制的计算机论文写作Skill用户。 | 4.9/5 |
+| 13 | [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) | 5,637 | 721 | autonomous-research | 希望研究多Agent科研系统或从种子论文扩展研究方向的用户。 | 4.0/5 |
+| 14 | [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) | 4,857 | 389 | prompt-collection | 刚开始使用LLM辅助学术写作、希望快速获得任务模板的用户。 | 4.2/5 |
 | 15 | [xuhangc/ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt) | 791 | 83 | prompt-collection | 面向AI顶会写作、需要具体表达模板的研究者。 | 4.1/5 |
-| 16 | [Epsilon617/Codex-Academic-Skills](https://github.com/Epsilon617/Codex-Academic-Skills) | 158 | 6 | awesome-list | 明确以Codex为主、希望持续扩展技能库的用户。 | 3.9/5 |
+| 16 | [Epsilon617/Codex-Academic-Skills](https://github.com/Epsilon617/Codex-Academic-Skills) | 159 | 6 | awesome-list | 明确以Codex为主、希望持续扩展技能库的用户。 | 3.9/5 |
 | 17 | [andrehuang/academic-writing-agents](https://github.com/andrehuang/academic-writing-agents) | 152 | 17 | review-agents | 论文接近定稿、希望进行分角色系统审查的用户。 | 4.3/5 |
 | 18 | [SNL-UCSB/paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill) | 147 | 8 | writing-skill | 重视论文论证结构、压缩表达和系统编辑流程的研究者。 | 4.7/5 |
 | 19 | [dixiyao/LLM-Academic-Writing](https://github.com/dixiyao/LLM-Academic-Writing) | 140 | 5 | review-workspace | 需要轻量论文审查模板和工作区参考的用户。 | 3.5/5 |
