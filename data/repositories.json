@@ -1,7 +1,7 @@
 [
   {
     "repo": "binary-husky/gpt_academic",
-    "stars": 71706,
+    "stars": 71715,
     "category": "research-assistant",
     "license": "GPL-3.0",
     "supports": [
@@ -33,15 +33,55 @@
     ],
     "recommendation": 4.7,
     "url": "https://github.com/binary-husky/gpt_academic",
-    "forks": 8289,
+    "forks": 8290,
     "open_issues": 332,
-    "updated_at": "2026-11-22T09:40:52Z",
+    "updated_at": "2026-11-23T09:08:40Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills",
+    "stars": 58196,
+    "category": "writing-workflow",
+    "license": "NOASSERTION",
+    "supports": [
+      "Claude Code",
+      "VS Code",
+      "JetBrains"
+    ],
+    "focus_zh": "从研究、写作、审稿、修改到定稿的完整人机协同学术工作流，并强调证据、引用与写作质量检查。",
+    "focus_en": "A complete human-in-the-loop workflow from research and writing to review, revision, and finalization, with evidence and citation checks.",
+    "best_zh": "需要完整论文生命周期管理、希望降低幻觉和引用风险的研究者。",
+    "best_en": "Researchers who need full paper-lifecycle management and strong safeguards against unsupported claims and citation errors.",
+    "strengths_zh": [
+      "工作流完整",
+      "引用与证据检查较强",
+      "支持风格校准"
+    ],
+    "strengths_en": [
+      "Complete workflow",
+      "Strong evidence and citation checks",
+      "Style calibration"
+    ],
+    "limits_zh": [
+      "原生面向Claude Code",
+      "规则较多，需按项目裁剪"
+    ],
+    "limits_en": [
+      "Claude Code is the native host",
+      "Large rule set may need project-specific pruning"
+    ],
+    "recommendation": 5.0,
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "forks": 4437,
+    "open_issues": 70,
+    "updated_at": "2026-11-23T10:38:08Z",
+    "archived": false,
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "K-Dense-AI/scientific-agent-skills",
-    "stars": 58073,
+    "stars": 58172,
     "category": "scientific-skills",
     "license": "MIT",
     "supports": [
@@ -75,55 +115,15 @@
     ],
     "recommendation": 4.5,
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "forks": 5085,
-    "open_issues": 96,
-    "updated_at": "2026-11-22T09:39:51Z",
+    "forks": 5097,
+    "open_issues": 98,
+    "updated_at": "2026-11-23T10:41:15Z",
     "archived": false,
-    "last_checked": "2026-11-22"
-  },
-  {
-    "repo": "Imbad0202/academic-research-skills",
-    "stars": 58044,
-    "category": "writing-workflow",
-    "license": "NOASSERTION",
-    "supports": [
-      "Claude Code",
-      "VS Code",
-      "JetBrains"
-    ],
-    "focus_zh": "从研究、写作、审稿、修改到定稿的完整人机协同学术工作流，并强调证据、引用与写作质量检查。",
-    "focus_en": "A complete human-in-the-loop workflow from research and writing to review, revision, and finalization, with evidence and citation checks.",
-    "best_zh": "需要完整论文生命周期管理、希望降低幻觉和引用风险的研究者。",
-    "best_en": "Researchers who need full paper-lifecycle management and strong safeguards against unsupported claims and citation errors.",
-    "strengths_zh": [
-      "工作流完整",
-      "引用与证据检查较强",
-      "支持风格校准"
-    ],
-    "strengths_en": [
-      "Complete workflow",
-      "Strong evidence and citation checks",
-      "Style calibration"
-    ],
-    "limits_zh": [
-      "原生面向Claude Code",
-      "规则较多，需按项目裁剪"
-    ],
-    "limits_en": [
-      "Claude Code is the native host",
-      "Large rule set may need project-specific pruning"
-    ],
-    "recommendation": 5.0,
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "forks": 4427,
-    "open_issues": 57,
-    "updated_at": "2026-11-22T09:50:29Z",
-    "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "Leey21/awesome-ai-research-writing",
-    "stars": 36229,
+    "stars": 36268,
     "category": "prompt-collection",
     "license": "Check upstream",
     "supports": [
@@ -157,15 +157,15 @@
     ],
     "recommendation": 4.9,
     "url": "https://github.com/Leey21/awesome-ai-research-writing",
-    "forks": 2543,
-    "open_issues": 18,
-    "updated_at": "2026-11-22T09:40:11Z",
+    "forks": 2546,
+    "open_issues": 19,
+    "updated_at": "2026-11-23T10:41:15Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 19569,
+    "stars": 19641,
     "category": "autonomous-research",
     "license": "MIT",
     "supports": [
@@ -197,15 +197,15 @@
     ],
     "recommendation": 4.4,
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "forks": 1565,
+    "forks": 1572,
     "open_issues": 75,
-    "updated_at": "2026-11-22T09:41:22Z",
+    "updated_at": "2026-11-23T10:03:41Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "pengsida/learning_research",
-    "stars": 16084,
+    "stars": 16098,
     "category": "research-methodology",
     "license": "Check upstream",
     "supports": [
@@ -236,15 +236,15 @@
     ],
     "recommendation": 4.8,
     "url": "https://github.com/pengsida/learning_research",
-    "forks": 768,
+    "forks": 770,
     "open_issues": 0,
-    "updated_at": "2026-11-22T09:00:53Z",
+    "updated_at": "2026-11-23T10:38:45Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "SakanaAI/AI-Scientist",
-    "stars": 15030,
+    "stars": 15033,
     "category": "autonomous-research",
     "license": "NOASSERTION",
     "supports": [
@@ -278,15 +278,54 @@
     ],
     "recommendation": 4.2,
     "url": "https://github.com/SakanaAI/AI-Scientist",
-    "forks": 2091,
+    "forks": 2092,
     "open_issues": 124,
-    "updated_at": "2026-11-22T05:36:09Z",
+    "updated_at": "2026-11-23T09:44:10Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
+  },
+  {
+    "repo": "Imbad0202/academic-research-skills-codex",
+    "stars": 14956,
+    "category": "writing-workflow",
+    "license": "NOASSERTION",
+    "supports": [
+      "Codex",
+      "SKILL.md"
+    ],
+    "focus_zh": "Academic Research Skills的Codex原生版本，将完整学术工作流打包为适合Codex使用的单套技能。",
+    "focus_en": "The Codex-native edition of Academic Research Skills, packaging the full academic workflow for Codex.",
+    "best_zh": "主要使用OpenAI Codex完成论文规划、审稿、修改与质量检查的研究者。",
+    "best_en": "Researchers who primarily use OpenAI Codex for planning, reviewing, revising, and quality control.",
+    "strengths_zh": [
+      "Codex原生",
+      "完整论文流程",
+      "便于项目内加载"
+    ],
+    "strengths_en": [
+      "Codex native",
+      "Full paper workflow",
+      "Easy project-level loading"
+    ],
+    "limits_zh": [
+      "功能与Claude版存在差异",
+      "仍需根据学科定制"
+    ],
+    "limits_en": [
+      "Feature differences from the Claude edition",
+      "Still requires discipline-specific customization"
+    ],
+    "recommendation": 5.0,
+    "url": "https://github.com/Imbad0202/academic-research-skills-codex",
+    "forks": 643,
+    "open_issues": 2,
+    "updated_at": "2026-11-23T10:43:11Z",
+    "archived": false,
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "aiming-lab/AutoResearchClaw",
-    "stars": 14922,
+    "stars": 14926,
     "category": "autonomous-research",
     "license": "MIT",
     "supports": [
@@ -321,52 +360,13 @@
     "url": "https://github.com/aiming-lab/AutoResearchClaw",
     "forks": 1718,
     "open_issues": 24,
-    "updated_at": "2026-11-22T07:19:51Z",
+    "updated_at": "2026-11-23T08:08:45Z",
     "archived": false,
-    "last_checked": "2026-11-22"
-  },
-  {
-    "repo": "Imbad0202/academic-research-skills-codex",
-    "stars": 14897,
-    "category": "writing-workflow",
-    "license": "NOASSERTION",
-    "supports": [
-      "Codex",
-      "SKILL.md"
-    ],
-    "focus_zh": "Academic Research Skills的Codex原生版本，将完整学术工作流打包为适合Codex使用的单套技能。",
-    "focus_en": "The Codex-native edition of Academic Research Skills, packaging the full academic workflow for Codex.",
-    "best_zh": "主要使用OpenAI Codex完成论文规划、审稿、修改与质量检查的研究者。",
-    "best_en": "Researchers who primarily use OpenAI Codex for planning, reviewing, revising, and quality control.",
-    "strengths_zh": [
-      "Codex原生",
-      "完整论文流程",
-      "便于项目内加载"
-    ],
-    "strengths_en": [
-      "Codex native",
-      "Full paper workflow",
-      "Easy project-level loading"
-    ],
-    "limits_zh": [
-      "功能与Claude版存在差异",
-      "仍需根据学科定制"
-    ],
-    "limits_en": [
-      "Feature differences from the Claude edition",
-      "Still requires discipline-specific customization"
-    ],
-    "recommendation": 5.0,
-    "url": "https://github.com/Imbad0202/academic-research-skills-codex",
-    "forks": 641,
-    "open_issues": 2,
-    "updated_at": "2026-11-22T09:34:38Z",
-    "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "Orchestra-Research/AI-Research-SKILLs",
-    "stars": 14736,
+    "stars": 14761,
     "category": "ai-research-engineering",
     "license": "MIT",
     "supports": [
@@ -399,15 +399,15 @@
     ],
     "recommendation": 4.8,
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
-    "forks": 1012,
-    "open_issues": 27,
-    "updated_at": "2026-11-22T08:53:17Z",
+    "forks": 1015,
+    "open_issues": 28,
+    "updated_at": "2026-11-23T08:57:29Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "Master-cai/Research-Paper-Writing-Skills",
-    "stars": 8487,
+    "stars": 8512,
     "category": "writing-skill",
     "license": "MIT",
     "supports": [
@@ -441,13 +441,13 @@
     "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
     "forks": 393,
     "open_issues": 0,
-    "updated_at": "2026-11-22T09:36:20Z",
+    "updated_at": "2026-11-23T10:47:37Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "SakanaAI/AI-Scientist-v2",
-    "stars": 7536,
+    "stars": 7545,
     "category": "autonomous-research",
     "license": "NOASSERTION",
     "supports": [
@@ -481,9 +481,9 @@
     "url": "https://github.com/SakanaAI/AI-Scientist-v2",
     "forks": 1016,
     "open_issues": 78,
-    "updated_at": "2026-11-21T17:36:20Z",
+    "updated_at": "2026-11-23T09:07:54Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "HKUDS/AI-Researcher",
@@ -519,11 +519,11 @@
     ],
     "recommendation": 4.0,
     "url": "https://github.com/HKUDS/AI-Researcher",
-    "forks": 729,
-    "open_issues": 68,
+    "forks": 730,
+    "open_issues": 55,
     "updated_at": "2026-11-22T05:20:15Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "ahmetbersoz/chatgpt-prompts-for-academic-writing",
@@ -560,9 +560,9 @@
     "url": "https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing",
     "forks": 400,
     "open_issues": 2,
-    "updated_at": "2026-11-22T05:05:41Z",
+    "updated_at": "2026-11-23T09:33:26Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "xuhangc/ChatGPT-Academic-Prompt",
@@ -601,7 +601,7 @@
     "open_issues": 0,
     "updated_at": "2026-11-17T06:06:41Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "SNL-UCSB/paper-writing-skill",
@@ -640,11 +640,11 @@
     "open_issues": 2,
     "updated_at": "2026-11-21T01:50:58Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "andrehuang/academic-writing-agents",
-    "stars": 241,
+    "stars": 242,
     "category": "review-agents",
     "license": "MIT",
     "supports": [
@@ -677,9 +677,9 @@
     "url": "https://github.com/andrehuang/academic-writing-agents",
     "forks": 23,
     "open_issues": 1,
-    "updated_at": "2026-11-22T09:50:46Z",
+    "updated_at": "2026-11-23T09:03:44Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "Epsilon617/Codex-Academic-Skills",
@@ -716,7 +716,7 @@
     "open_issues": 2,
     "updated_at": "2026-11-21T15:55:47Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "dixiyao/LLM-Academic-Writing",
@@ -753,7 +753,7 @@
     "open_issues": 0,
     "updated_at": "2026-11-18T21:56:20Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   },
   {
     "repo": "BevalZ/awesome-prompt-for-academic",
@@ -792,6 +792,6 @@
     "open_issues": 0,
     "updated_at": "2026-10-29T03:56:04Z",
     "archived": false,
-    "last_checked": "2026-11-22"
+    "last_checked": "2026-11-23"
   }
 ]
