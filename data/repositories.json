@@ -1,7 +1,7 @@
 [
   {
     "repo": "binary-husky/gpt_academic",
-    "stars": 71726,
+    "stars": 71737,
     "category": "research-assistant",
     "license": "GPL-3.0",
     "supports": [
@@ -35,13 +35,13 @@
     "url": "https://github.com/binary-husky/gpt_academic",
     "forks": 8290,
     "open_issues": 331,
-    "updated_at": "2026-11-27T07:54:15Z",
+    "updated_at": "2026-11-28T09:53:55Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Imbad0202/academic-research-skills",
-    "stars": 58783,
+    "stars": 58900,
     "category": "writing-workflow",
     "license": "NOASSERTION",
     "supports": [
@@ -73,15 +73,15 @@
     ],
     "recommendation": 5.0,
     "url": "https://github.com/Imbad0202/academic-research-skills",
-    "forks": 4480,
-    "open_issues": 55,
-    "updated_at": "2026-11-27T10:52:20Z",
+    "forks": 4487,
+    "open_issues": 54,
+    "updated_at": "2026-11-28T09:41:08Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "K-Dense-AI/scientific-agent-skills",
-    "stars": 58650,
+    "stars": 58746,
     "category": "scientific-skills",
     "license": "MIT",
     "supports": [
@@ -115,15 +115,15 @@
     ],
     "recommendation": 4.5,
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "forks": 5128,
+    "forks": 5137,
     "open_issues": 102,
-    "updated_at": "2026-11-27T10:50:28Z",
+    "updated_at": "2026-11-28T10:30:22Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Leey21/awesome-ai-research-writing",
-    "stars": 36378,
+    "stars": 36393,
     "category": "prompt-collection",
     "license": "Check upstream",
     "supports": [
@@ -157,15 +157,15 @@
     ],
     "recommendation": 4.9,
     "url": "https://github.com/Leey21/awesome-ai-research-writing",
-    "forks": 2551,
-    "open_issues": 19,
-    "updated_at": "2026-11-27T10:31:28Z",
+    "forks": 2552,
+    "open_issues": 20,
+    "updated_at": "2026-11-28T10:01:35Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "stars": 19996,
+    "stars": 20037,
     "category": "autonomous-research",
     "license": "MIT",
     "supports": [
@@ -197,15 +197,15 @@
     ],
     "recommendation": 4.4,
     "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-    "forks": 1603,
+    "forks": 1605,
     "open_issues": 77,
-    "updated_at": "2026-11-27T10:53:27Z",
+    "updated_at": "2026-11-28T09:59:15Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "pengsida/learning_research",
-    "stars": 16166,
+    "stars": 16170,
     "category": "research-methodology",
     "license": "Check upstream",
     "supports": [
@@ -236,15 +236,15 @@
     ],
     "recommendation": 4.8,
     "url": "https://github.com/pengsida/learning_research",
-    "forks": 774,
+    "forks": 775,
     "open_issues": 0,
-    "updated_at": "2026-11-27T08:06:17Z",
+    "updated_at": "2026-11-28T07:06:56Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Imbad0202/academic-research-skills-codex",
-    "stars": 15165,
+    "stars": 15193,
     "category": "writing-workflow",
     "license": "NOASSERTION",
     "supports": [
@@ -275,15 +275,15 @@
     ],
     "recommendation": 5.0,
     "url": "https://github.com/Imbad0202/academic-research-skills-codex",
-    "forks": 650,
+    "forks": 655,
     "open_issues": 2,
-    "updated_at": "2026-11-27T10:32:41Z",
+    "updated_at": "2026-11-28T10:04:27Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "SakanaAI/AI-Scientist",
-    "stars": 15053,
+    "stars": 15055,
     "category": "autonomous-research",
     "license": "NOASSERTION",
     "supports": [
@@ -317,15 +317,15 @@
     ],
     "recommendation": 4.2,
     "url": "https://github.com/SakanaAI/AI-Scientist",
-    "forks": 2096,
+    "forks": 2097,
     "open_issues": 125,
-    "updated_at": "2026-11-27T05:51:12Z",
+    "updated_at": "2026-11-28T09:45:52Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "aiming-lab/AutoResearchClaw",
-    "stars": 14963,
+    "stars": 14967,
     "category": "autonomous-research",
     "license": "MIT",
     "supports": [
@@ -358,15 +358,15 @@
     ],
     "recommendation": 4.4,
     "url": "https://github.com/aiming-lab/AutoResearchClaw",
-    "forks": 1723,
+    "forks": 1725,
     "open_issues": 24,
-    "updated_at": "2026-11-27T10:54:04Z",
+    "updated_at": "2026-11-28T05:10:34Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Orchestra-Research/AI-Research-SKILLs",
-    "stars": 14859,
+    "stars": 14880,
     "category": "ai-research-engineering",
     "license": "MIT",
     "supports": [
@@ -401,13 +401,13 @@
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
     "forks": 1026,
     "open_issues": 28,
-    "updated_at": "2026-11-27T09:49:12Z",
+    "updated_at": "2026-11-28T10:01:20Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Master-cai/Research-Paper-Writing-Skills",
-    "stars": 8625,
+    "stars": 8641,
     "category": "writing-skill",
     "license": "MIT",
     "supports": [
@@ -441,13 +441,13 @@
     "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
     "forks": 401,
     "open_issues": 0,
-    "updated_at": "2026-11-27T10:08:53Z",
+    "updated_at": "2026-11-28T09:16:24Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "SakanaAI/AI-Scientist-v2",
-    "stars": 7562,
+    "stars": 7564,
     "category": "autonomous-research",
     "license": "NOASSERTION",
     "supports": [
@@ -479,15 +479,15 @@
     ],
     "recommendation": 4.1,
     "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-    "forks": 1022,
+    "forks": 1023,
     "open_issues": 80,
-    "updated_at": "2026-11-27T02:32:35Z",
+    "updated_at": "2026-11-28T10:28:31Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "HKUDS/AI-Researcher",
-    "stars": 5911,
+    "stars": 5913,
     "category": "autonomous-research",
     "license": "Check upstream",
     "supports": [
@@ -521,9 +521,9 @@
     "url": "https://github.com/HKUDS/AI-Researcher",
     "forks": 731,
     "open_issues": 53,
-    "updated_at": "2026-11-27T07:53:08Z",
+    "updated_at": "2026-11-28T07:25:17Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "ahmetbersoz/chatgpt-prompts-for-academic-writing",
@@ -562,7 +562,7 @@
     "open_issues": 2,
     "updated_at": "2026-11-27T02:51:57Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "xuhangc/ChatGPT-Academic-Prompt",
@@ -601,7 +601,7 @@
     "open_issues": 0,
     "updated_at": "2026-11-26T05:06:04Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "SNL-UCSB/paper-writing-skill",
@@ -679,7 +679,7 @@
     "open_issues": 1,
     "updated_at": "2026-11-27T08:49:49Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "Epsilon617/Codex-Academic-Skills",
@@ -716,7 +716,7 @@
     "open_issues": 2,
     "updated_at": "2026-11-26T12:52:17Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "dixiyao/LLM-Academic-Writing",
@@ -753,7 +753,7 @@
     "open_issues": 1,
     "updated_at": "2026-11-18T21:56:20Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   },
   {
     "repo": "BevalZ/awesome-prompt-for-academic",
@@ -792,6 +792,6 @@
     "open_issues": 0,
     "updated_at": "2026-10-29T03:56:04Z",
     "archived": false,
-    "last_checked": "2026-11-27"
+    "last_checked": "2026-11-28"
   }
 ]
